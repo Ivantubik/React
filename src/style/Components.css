@@ -1,0 +1,21 @@
+/*header*/
+.title {
+    color: red;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.card_total{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    background-color: rgb(27, 26, 26);
+}
+.item.compon {
+    display: flex;
+    flex-direction: row;
+    color: aqua;
+}
